@@ -44,7 +44,6 @@ The project repository contains the following files and directories:
 - `clearScreen.py`: A Python script to clear the console screen for a better user experience.
 - `files`: A directory containing sample files for testing the Duplicate Files Finder.
 - `main.py`: The main Python script responsible for scanning and identifying duplicate files.
-- `test.py`: A Python script containing unit tests for the Duplicate Files Finder.
 
 ## Installation
 
